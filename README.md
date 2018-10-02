@@ -1,13 +1,11 @@
-# GroupMe Bot Starter
+# Groupme Comster Bot
 
-[![GNU GPLv3 License](https://img.shields.io/github/license/acmatuc/groupme-bot-starter.svg?maxAge=2592000)]()
 [![Dependencies Status](https://david-dm.org/acmatuc/groupme-bot-starter/status.svg)](https://david-dm.org/acmatuc/groupme-bot-starter)
 [![Dependencies Status](https://david-dm.org/acmatuc/groupme-bot-starter/dev-status.svg)](https://david-dm.org/acmatuc/groupme-bot-starter?type=dev)
 
-> Starter code for the GroupMe bot workshop at ACM@UC
 
-![bot interaction](screenshots/bot-interaction.jpg)
-
+# Original Read.me
+* Forked from [ACMatUC/groupme-bot-starter](https://github.com/ACMatUC/groupme-bot-starter)
 ## Before You Begin
 
 You'll need a few things before you start:
